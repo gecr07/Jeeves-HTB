@@ -64,6 +64,21 @@ crackmapexec smb 10.129.185.202 -u 'Adminsitrator' -H e0fb1fb85756c24235ff238cbe
 ```
 
 
+## Alternative data streams
+
+![image](https://github.com/gecr07/Jeeves-HTB/assets/63270579/6edd59cf-330a-4f51-810d-14e8c3ede5b6)
+
+
+Es una manera de esconder cosas y se ve algo como esto:
+
+
+Para listar este tipo de archivos
+
+```
+dir /R
+more < hm.txt:root.txt
+
+```
 
 
 
