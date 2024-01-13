@@ -81,7 +81,9 @@ more < hm.txt:root.txt
 ```
 
 
+## Bibliogrgafia
 
+> https://hacktricks.boitatech.com.br/pentesting/pentesting-web/jenkins
 
 
 
